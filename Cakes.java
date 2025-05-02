@@ -9,7 +9,7 @@ public class Cakes {
         //Para que el resultado cambie de tipo usamos "type casting" y se hace agregando entre paréntesis lo que queremos convertir
         
         //Corre el siguiente código
-        System.out.println("Cada persona se lleva " + ((double)cake / people) + " partes de pastel");
+        System.out.println("Cada persona se lleva " + ((double) cake / people) + " partes de pastel");
         //El resultado obtenido es de tipo double.
 
         //Ahora vamos a escribir un programa que convierta un valor de tipo double a int y de int a double. 
